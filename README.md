@@ -1,2 +1,3 @@
 # Cryptoducks
-Practicing frontend authentication 
+
+Ducks website for practicing frontend authentication
